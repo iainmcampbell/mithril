@@ -1,0 +1,24 @@
+{
+  "name": "mithril",
+  "authors": [
+    "iainmcampbell <hey@iainmc.ca>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mithril": "~0.2.0",
+    "es6-promise": "~3.0.2"
+  }
+}
