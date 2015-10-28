@@ -1,0 +1,21 @@
+.cats {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  cursor: pointer; }
+
+.cats-cat {
+  vertical-align: top;
+  display: inline-block;
+  margin-bottom: 0.5em;
+  margin-right: 0.5em; }
+
+.cats-cat-id {
+  padding: 0.2em 0.3em;
+  background: grey;
+  color: white; }
+
+.cats-cat-name {
+  padding: 0.2em 0.3em;
+  background-color: #eee; }
